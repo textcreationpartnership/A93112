@@ -1,0 +1,458 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The parsons guide: or The lavv of tithes. Wherein is shewed, who must pay tythes, and to whom, and of what things, when, and how they must be paid, and how they may be recovered at this day, and how a man may be discharged of payment thereof. By W.S. Esq;</title>
+            <author>Sheppard, William, d. 1675?</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1654</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 67 KB of XML-encoded text transcribed from 19 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A93112</idno>
+            <idno type="STC">Wing S3204</idno>
+            <idno type="STC">Thomason E744_9</idno>
+            <idno type="STC">ESTC R203561</idno>
+            <idno type="EEBO-CITATION">99863485</idno>
+            <idno type="PROQUEST">99863485</idno>
+            <idno type="VID">115688</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A93112)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 115688)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 114:E744[9])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The parsons guide: or The lavv of tithes. Wherein is shewed, who must pay tythes, and to whom, and of what things, when, and how they must be paid, and how they may be recovered at this day, and how a man may be discharged of payment thereof. By W.S. Esq;</title>
+                  <author>Sheppard, William, d. 1675?</author>
+               </titleStmt>
+               <extent>[8], 31, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for W. Lee, D. Pakeman, and G. Bedell, at their shops in Fleet-street,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1654.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>W.S. = William Sheppard.</note>
+                  <note>A1 from Folger catalogue.</note>
+                  <note>Annotation on Thomason copy: "June 23:".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Tithes --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-06</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-07</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2011-07</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:115688:1"/>
+            <pb facs="tcp:115688:1" rendition="simple:additions"/>
+            <p>THE PARSONS GUIDE: OR THE LAW OF TITHES. <hi>Wherein is ſhewed,</hi> Who muſt pay Tythes, and to whom, and of what things, When, and How they muſt be paid, and how they may be recovered at this day, and how a man may be diſcharged of pay<g ref="char:EOLhyphen"/>ment thereof.</p>
+            <p>By <hi>W. S.</hi> 
+               <abbr>Eſq</abbr>
+            </p>
+            <p>
+               <hi>London,</hi> Printed for <hi>W. Lee, D. Pakeman,</hi> and <hi>G. Bedell,</hi> at their Shops in Fleet-ſtreet, 1654.</p>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:115688:2"/>
+            <pb facs="tcp:115688:2"/>
+            <head>THE REASONS Of publiſhing this BOOK.</head>
+            <p>
+               <seg rend="decorInit">H</seg>Aving made this little Trea<g ref="char:EOLhyphen"/>tiſe of Tythes at the firſt for mine own private uſe, it came into my thoughts how much ſtrife there is every where about the pay<g ref="char:EOLhyphen"/>ment, of Tythes, and other Duties, whereto and wherein the Parſon or Vicar by the pre<g ref="char:EOLhyphen"/>ſent Lawes of this Nation hath as good
+<pb facs="tcp:115688:3"/> right and property, as any man hath to the reſt parts of the profits of his Eſtate. And that this ſtrife may ariſe much from the ignorance of the Law in this matter, there being as yet no cleer and full advice herein; and hoping, that when men know what the Law is herein, the one will not demand more, nor the other offer leſſe then what the Law ſets down to be due, much of this trouble may be prevented, and ſome peace procured. For this cauſe, I ſay, I have put the ſame in Print. And now if any man ſhall ſay, Why at this time, when there is ſo much talk of taking away Tythes? I anſwer him, That we have had much talk of taking away many things a long time, which are not as yet taken away nor perhaps ever will be. And I ſuppoſe the talk of taking away Tithes is only the Tythes in the hands of Miniſters, and in relation to their Maintenance; and not the Tythes in the hands of other men. And as to theſe, I wiſh they were taken away, ſo that firſt of all a more convenient way of Maintenance in ſtead thereof be provided for the Mini<g ref="char:EOLhyphen"/>ſter; but this I ſuppoſe will ask time, and till that time, and after that time, for the
+<pb facs="tcp:115688:3"/> help of other perſons, I have taken the pains to write this little Tract; which, as it doth neither juſtifie nor condemn Tythes, ſo it will neither further nor hinder the continu<g ref="char:EOLhyphen"/>ance of them; and which may do ſome good, but certainly can do no hurt at all.</p>
+         </div>
+         <div type="table_of_contents">
+            <pb facs="tcp:115688:4"/>
+            <head>The TABLE.</head>
+            <list>
+               <item>C<g ref="char:V">Ʋ</g>ſteme <hi>Chap. 9. Sect. 1</hi>
+               </item>
+               <item>Diſcharge of Tythes <hi>Chap. 9.</hi>
+               </item>
+               <item>Glebe <hi>Chap. 1</hi>
+               </item>
+               <item>Mortuary <hi>Chap. 1 and 10</hi>
+               </item>
+               <item>Oblations <hi>ibid</hi>
+               </item>
+               <item>Obventions <hi>ibid.</hi>
+               </item>
+               <item>Parſon <hi>Chap. 1</hi>
+               </item>
+               <item>Plurality <hi>Chap. 4</hi>
+               </item>
+               <item>Preſcription <hi>Chap. 4. and Chap. 9. Sect. 1</hi>
+               </item>
+               <item>Tythes. The kinds thereof <hi>Chap. 2</hi>
+               </item>
+               <item>The rature of them <hi>Chap. 3</hi>
+               </item>
+               <item>Who muſt pay Tythe, and who muſt receive them <hi>Chap. 4</hi>
+               </item>
+               <item>Of what things they are to be paid <hi>Chap. 5</hi>
+               </item>
+               <item>How, when, and where they muſt be paid <hi>Chap. 6</hi>
+               </item>
+               <item>Who must pay them, and to whom they muſt be paid. <hi>Chap. 7</hi>
+               </item>
+               <item>How they may be recovered <hi>Chap. 8</hi>
+               </item>
+               <item>How they may be diſcharged <hi>Chap. 9</hi>
+               </item>
+               <item>Vicar <hi>Chap: 1</hi>
+               </item>
+            </list>
+         </div>
+      </front>
+      <body>
+         <head>
+            <pb n="1" facs="tcp:115688:4"/>THE PARSONS GUIDE:</head>
+         <div n="1" type="chapter">
+            <head>CHAP. I.</head>
+            <argument>
+               <p>Of a Parſon and Vicar, his Parſonage or Vicarage, and the profits belonging to them.</p>
+            </argument>
+            <p>
+               <seg rend="decorInit">T</seg>HE Parſon at firſt was hee that had the charge of a Pariſh Church, and was called the Rector of a Church; but he is moſt properly ſo called, that hath a Parſonage where there is a Vicarage endowed.</p>
+            <p>The Vicarage is a certain portion of the Parſonage allowed to the Vi<g ref="char:EOLhyphen"/>car for his Maintenance. And this portion in ſome pla<g ref="char:EOLhyphen"/>ces is a ſum of money certain. In other places it is a part of the Tithes in kind, and commonly the ſmaller Tithes, but in ſome few places the Vicar hath part of the great Tithes alſo: and he that hath the right to, and poſſeſſion of this, is called the Vicar; and he that hath the other part is called the Parſon, who in ſome Pariſhes is the Miniſter of the place, one they call a Clergy man or Miniſter; and in other places he is a Lay-man, where it is an Impropriation.</p>
+            <pb n="2" facs="tcp:115688:5"/>
+            <p>The profits and fruits of a Parſonage or Vicarage, be<g ref="char:EOLhyphen"/>longing to the Parſon or Vicar, are his Glebe Land, (if there be any) Oblations, Obventions, Offerings and Tithes.</p>
+            <p>The Glebe is that portion of Land, Meadow, or Paſture, that is belonging to, and parcel of the Parſonage or Vicar<g ref="char:EOLhyphen"/>age, over and above the Tithes.</p>
+            <p>Oblations, Obventions and Offerings ſeem to be but one thing, and that which was called meerly Spiritual. The Oblations were ſaid to be ſuch things real or perſonal as were offered to God and his Church by Teſtament or other<g ref="char:EOLhyphen"/>wiſe. And Obventions did include Oblations and other things now unknowne and loſt amongſt us. And of this nature it ſeems the Mortuary is. And the other profits are the Tithes.</p>
+         </div>
+         <div n="2" type="chapter">
+            <head>CHAP. II.</head>
+            <argument>
+               <p>Of Tithes, and their kinds.</p>
+            </argument>
+            <p>TIthes are a certain part of the fruit or lawful increaſe of the earth, beaſts, or mens labours, which in moſt <note place="margin">What they are.</note> places, and of moſt things is the tenth part, and hath been by the Law given to the Miniſters of the Goſpel, in re<g ref="char:EOLhyphen"/>compence of their labour in the execution of their Of<g ref="char:EOLhyphen"/>fice.</p>
+            <p>There are three ſorts of Tithes. Some of them are Predi<g ref="char:EOLhyphen"/>al, <note place="margin">Their kinds.</note> that is, ſuch as come in, and ariſe yearly of the fruit and profit of the earth; ſuch as are wood, corn, grain, hay, the ſeed of Rape, Parſley, hops, ſaffion, woad, flax, hemp, darnel or cockle, fennel, anniſe, and the like. Such are the fruits of trees, as Apples, Pears, Plums, Nuts, Cherries, Wardens, Grapes, Maſt, Acornes, and the like. Such alſo (as it ſeems,) are Herbs, as Rue, Sage, Mint, and the like.</p>
+            <pb n="3" facs="tcp:115688:5"/>
+            <p>Some of them are Perſonal, and they are ſuch as ariſe and grow due by the profits that come by mans honeſt labour and induſtry in ſome perſonal work, Artifice or Negotiation, as by buying, ſelling, merchandizing; or by the labour of handicrafts men, ſuch as are Carpenters, Maſons, Fiſhers, Fowlers, Hunters and the like.</p>
+            <p>And ſome Tithes are ſaid to be mixt, ſuch are the profits of ſome things that ariſe partly from the labour and care of men; and partly from the earth where the things are fed, of this ſort are Cattle, as their young Calves, Lambs, Kids, Roes, the wool of ſheep, milk and cheeſe of Cowes; ſo the eggs and chickens of Hens, Geeſe, Ducks, and Swans, and the like.</p>
+            <p>Amongſt Predial Tithes, ſome of them are ſaid to be greater, as wood, corn, hay, and the like. And ſome of them are leſſer, as the Tithe of Herbs, Flax, Hemp, and the like. And all theſe of the one ſort and of the other, the diſpute is under the names of Tithes of harveſt fruits; of woods felled, and preſerved to grow again; of wood not in uſe nor apt for Timber, but for fire; of trees planted for fen<g ref="char:EOLhyphen"/>cing of grounds, in fields, paſtures, and hedgrowes; of Turves growing in fenniſh and mooriſh grounds; of paſture ground, of hay, of wool, of lambs, of calves, of pigs, of colts, of milk, of cheeſe, of fruits, of trees, of ſeeds, hemp, flax, onions, rape, of pot-herbs; of maſt of Beech or Oak; of Mills dri<g ref="char:EOLhyphen"/>ven by wind or water; of Parks, Warrens, pools, ponds; of wild Beaſts under cuſtody, &amp;c. of Dove-cotes or Dove-houſes; of bees, of fowlings, of huntings, of fiſhings, of ſwans, of geeſe, of eggs, of Crafts and manual occupations, of Trade by wares, merchandize, &amp;c. And about all theſe things eſpecially are all the Queſtions and caſes that follow con<g ref="char:EOLhyphen"/>cerning this Subject.</p>
+         </div>
+         <div n="3" type="chapter">
+            <pb n="4" facs="tcp:115688:6"/>
+            <head>CHAP. III.</head>
+            <argument>
+               <p>Of the Nature of Tithes.</p>
+            </argument>
+            <p>TIthes by our Law were accounted an Eccleſiaſtical In<g ref="char:EOLhyphen"/>heritance, and collateral to the ſtate of the Land out of which they come, which of common right are to be paid out of all Lands, Meadowes and Paſtures, and which of their proper nature originally were due only to Eccleſiaſtical per<g ref="char:EOLhyphen"/>ſons by Eccleſiaſtical Law; and till they were ſevered, were eſteemed meerly Eccleſiaſtical: for the ſubſtraction where<g ref="char:EOLhyphen"/>of, no remedy was given by the Common Law. Neither can any unity of poſſeſſion extinguiſh or ſuſpend them, but they remain ſtill in <hi>eſſe,</hi> and might be demiſed or let to any ſpiritual perſon. And if a Parſon impropriate had infeoffed another of part of his Glebe, or had made a Leaſe of it to him, yet he ſhould have had Tithe thereof ſtill, ſo that a man might have had Tithe againſt his own Feoffment, for they were not claimed in reſpect of any ownerſhip in the Land, but <hi>ex debito,</hi> by the Law of God, So if a Parſon purchaſe Land within his Rectory, and after leaſe the Par<g ref="char:EOLhyphen"/>ſonage, the Leſſee ſhall have Tithe of this new purchaſed Land. And a Lay-man by the Common Law, could not have had an Inheritance deſcendable and grantable of Tithes as of other Temporal poſſeſſions, neither will they paſſe by the ſame words in Grants as other Temporal poſſeſſions wil do. And therefore if one grant a ground <hi>cum proficuis, &amp; comoditatibus eidem pertinentibus,</hi> the Tithes will not paſſe by this. But now the Law is changed herein, for they and other Eccleſiaſtical Duties, eſpecially ſuch as came to the Crown by the Statures of 27. <hi>H.</hi> 8. 31. <hi>H.</hi> 1. 1. <hi>Ed.</hi> 6. are by thoſe Statutes, and the Statutes of 32. <hi>H.</hi> 8. and 1. &amp; 2 <hi>Phil. &amp; Mar.</hi> in the hands of Lay-men Temporal Inheri<g ref="char:EOLhyphen"/>tances, and are of the nature of other Land; it ſhall be ac<g ref="char:EOLhyphen"/>counted
+<pb n="5" facs="tcp:115688:6"/> Aſſets in the hands of an Heir. The wiſe ſhall be endowed of it, the husband tenant by the courteſie for them: real actions may be brought, and they have all o<g ref="char:EOLhyphen"/>ther incidents of Lay-Inheritances. <hi>Cook</hi> 11. 14. <hi>Dyer</hi> 43. <hi>Cook</hi> 1. 3. <hi>Cook upon Litt.</hi> 5. 159.</p>
+         </div>
+         <div n="4" type="chapter">
+            <head>CHAP. IV.</head>
+            <argument>
+               <p>Who muſt pay Tithes at this day, and to whom, and who are capable of receiving and retaining of Tithes, and by what Title, and how.</p>
+            </argument>
+            <p>TIthes by the Common Law are due of common right out of all things; and every man at this day Alien and Denizen, is bound to pay the ſame, that cannot ſhew a ſpecial exemption and freedome, by compoſition, cu<g ref="char:EOLhyphen"/>ſtome, preſcription, or ſome Act of Parliament. So the Kings have paid no Tithes ſometimes for their Lands in their own hands, So neither the Lord Protector not his Patentees are to pay Tithe for ſome of their ancient Forreſts-Lands that lye in no Pariſh, or between two Pariſhes; this is not to pay Tithe. And ſo the Vicar in ſome places doth pay no Tithe to the Parſon, ſo long as his Vicarage Land is occupied by himſelf. <hi>Cro. Jur.</hi> 60. <hi>Cook</hi> 2. 44. <hi>Broo. Diſmes</hi> 10. And it is ſaid, If a Biſhop had held Land diſcharged of Tithe, and made Feoffmeur or Leaſe of it, that his Leſſee or Feoffee ſhall not pay for it. <hi>Cook</hi> 2. 44.</p>
+            <p>And as to the perſons to whom, and capable of receipt of Tithe, albeit by the Common Law anciently, no Lay<g ref="char:EOLhyphen"/>perſon was capable of them, ſave onely by way of diſ<g ref="char:EOLhyphen"/>charge; as where a Pariſhioner had compounded with the Vicar or Parſon for his owner Tithe: Yet at this day
+<pb n="6" facs="tcp:115688:7"/> any man may have them as other Lay-Inheritances; and Lay-men (as they call them) as well as Clergy men, have them. And to make Clergy men capable of them, there were heretofore many things required, as Examination and Allowance by the Biſhop, ſubſcription to the Articles of Re<g ref="char:EOLhyphen"/>ligion, Inſtitution and Induction into the Parſonage or Vi<g ref="char:EOLhyphen"/>carage, to which the Tithes belong. But in theſe things the Lawes are changed at this day. And therefore it ſeems ſuch a perſon once capable of Tithes, cannot be made un<g ref="char:EOLhyphen"/>capable <note place="margin">Pluralitie.</note> afterwards, as heretofore, unleſs it be where he hath one Benefice of 81. a year, and he take another; for in this caſe it ſeems he ſhall loſe the firſt. But for this, ſee the Statutes of 21. <hi>H.</hi> 8. 13. 28. <hi>H.</hi> 8. 13. <hi>Cook</hi> 4. 79. &amp; 6. 20.</p>
+            <p>A Parſon or Vicar may have Tithe out of his Pariſh, by <note place="margin">Preſcription</note> a ſpecial Preſcription. Or he may preſcribe to have a ſum of Money for Tithes within his Pariſh of any certain man there in lieu of Tithes. And another man alſo may have Title to a portion of Tithes by Preſcription. <hi>Bro.</hi> 85. <hi>Cook</hi> 11. 19. <hi>Book of Entries. N. B. f.</hi> 9. <hi>Cook</hi> 2. 45. <hi>Cook</hi> 4. 49. And a man may have his own Tithe of the Parſon by agreement betweene them, for the Parſons life, or how they pleaſe.</p>
+         </div>
+         <div n="5" type="chapter">
+            <head>CHAP. V.</head>
+            <argument>
+               <p>Of what things Tithe is to be paid, and of what not, and out of what Land, and how.</p>
+            </argument>
+            <p>IN general the rule is, that Tithes muſt be paid of all things that are of profit, and that ariſe from year to year, e<g ref="char:EOLhyphen"/>ſpecially of the things wherein the induſtry of man is help<g ref="char:EOLhyphen"/>ing, as in all things it is more or leſs helping. <hi>Cook</hi> 11-16.</p>
+            <pb n="7" facs="tcp:115688:7"/>
+            <p>
+               <hi>Fitz. Nat. Brev.</hi> 53. 32. <hi>H.</hi> 8. 7. And ſo it is to be paid for, and out of all things within (not without) the Pariſh, that ariſe, grow, and happen from year to year by the Act of God alone, or by the Act of God and man together. But more particularly</p>
+            <p>All ſorts of trees, but Timber trees are to pay Tithe (that <note place="margin">
+                  <hi>Sect.</hi> 1. O<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> trees and woods.</note> is) their tenth of increaſe, living or dead, uſed or ſold by the owner, for the body, branches, bark, fruit, root, and branches that grow out of the root. And within this rule all fruit trees, as Apple-trees, Pear-trees, Nut-trees, Walnut-trees, and the like, are to yeild the tenth of their increaſe of fruit yearly; and if they be cut down, the tenth of the body whether ſold or kept; and if they be pared, the tenth of their parings, whether ſold or kept. So Tithe is to be paid of the fruit, body, bark and branches of all other trees not apt to Timber, as willowes, ſallowes, though they be above twenty years growth, or of any age whatſoever, and were never cut before. So alſo Tithe is to bee paid of <hi>Silva caedua;</hi> that is, Under-woods and Coppices ſelled and preſerved to grow again, and which by good husbandry may grow again. And of all theſe things the Parſon is to have the tenth part, as the owner hath, and at the time when the Owner doth receive his nine parts.</p>
+            <p>But of the Underwoods of Coppices, parings of Fruit<g ref="char:EOLhyphen"/>trees, <note place="margin">For wood cu for his own uſe.</note> or other trees cut only for mounds, or for plow geer, for hedging and fencing of the corn fields or other grounds within the Pariſh, or for fuel for the maintenance of the plow or paile, no Tithe is to be paid for it, although the Vi<g ref="char:EOLhyphen"/>car have the Tithe wood, and the Parſon the Tithe of the places incloſed. Nor is Tithe to be paid of Underwoods, which are digged up by the roots. Nor (as it ſeems) for the wood of Coppices or trees that a man doth cut or ſpend in his own houſe-keeping, though he ſpend much; by <hi>Hob<g ref="char:EOLhyphen"/>bard</hi> Chief Juſtice. But if the Parſon can alledge a ſpecial cuſtome for it, he may have Tithe for this alſo, <hi>M. 4. Jac. B. R.</hi>
+            </p>
+            <p>But for Timber Trees, ſuch as are Oak, Aſh, and Elme, which are eſteemed Timber after they are twenty years old <note place="margin">Timber.</note>
+               <pb n="8" facs="tcp:115688:8"/> in all Countries: and beech, horſe-beech, hornbeam, ma<g ref="char:EOLhyphen"/>ple, aſpe, and haſel, any of which may be, and are eſteemed Timber in ſome Countries, as the uſage of the Countrey, or the plenty or ſcarcity of other. Timber there is; for theſe, either living or dead, for their bodies, branches, bark, roots, or germines that grow out of them no Tithe is to be paid at all, in any caſe; but Tithe is to be paid for all this Timber wood, if it be cut within twenty years after the firſt planting of it.</p>
+            <p>For the opening whereof (in relation to wood and trees) further, theſe things are to be known.</p>
+            <p n="1">1. If the Parſon have Tithe of the fruit of a tree, and the ſame year the owner doth fell the tree, and make it into billets or fagots; in this caſe the Parſon ſhall not have tithe for the tree, for it is a rule, that he muſt not have tithe of one thing twice in one year.</p>
+            <p n="2">2 Beech in a Country where there is abundance of it, is not to be accounted Timber, nor to be tithe-free. 16. <hi>Jac. Co. B. Pinders Caſe.</hi>
+            </p>
+            <p n="3">3. Cherry Trees in <hi>Buckingham</hi> ſhire have been adjudg<g ref="char:EOLhyphen"/>ed timber and tithe-free. <hi>Paſch.</hi> 17. <hi>Jac. B. R.</hi>
+            </p>
+            <p n="4">4. If a man lop a tree under twenty years growth, and after ſuffer the body to grow paſt twenty years growth, and then lop it again; in this caſe no Tithe ſhall be paid for it, though it were not tithe-free at the firſt cutting. <hi>Co. B.</hi> by the whole Court. <hi>Brown.</hi> 1. <hi>part.</hi> 33.</p>
+            <p n="5">5 If wood be cut to make hedges, which is not Tithable, and there be a little remaining or left of it, no Tithe ſhall be paid for this remnant.</p>
+            <p n="6">6 If wood be cut down and imployed for Hop-poles, where the Parſon or Vicar hath Tithe Hops; in this caſe he ſhall not have Tithe of the Hop-poles.</p>
+            <p n="7">7. If a great Wood doth conſiſt for the moſt part of Un<g ref="char:EOLhyphen"/>derwood, which is titheable, and ſome great trees of Beeches or other wood grow ſcattering amongſt them; in this caſe Tithe may be paid, and muſt be, unleſſe the uſage be other wiſe of all both great and ſmal together. And ſo if a Wood do conſiſt for the moſt part of timber trees, and there is
+<pb n="9" facs="tcp:115688:8"/> ſome ſmall parcel of Underwood or buſhes growing in the ſame Wood, no Tithe ſhall be paid for this underwood or buſhes. <hi>Trin.</hi> 19. <hi>Jac. B. R. Adjudg.</hi> 16 <hi>Jac. in C. B. Leonards Caſe.</hi>
+            </p>
+            <p n="8">8 No tithe is to be paid of Common of Eſtovers, the wood that he burns in his houſe.</p>
+            <p>See for all theſe matters, within this point of trees and wood, <hi>Cook Rep.</hi> 11. 48, 49. 81. <hi>Plow.</hi> 470. <hi>Brownlows Rep.</hi> 1 <hi>Part</hi> 94. 2 <hi>Part</hi> 150. <hi>D &amp; St.</hi> 169 Where and how this is to be paid and delivered, ſee more in <hi>Chap.</hi> 5. <hi>Sect.</hi> 1.</p>
+            <p>No Tithes are to be paid of Mines or Quarries, of iron, braſs, tin, lead, coals, ſtone, tile, brick, lime, gravel, <note place="margin">
+                  <hi>Sect.</hi> 2. Of Mines and Quarries.</note> marle, chalk, and the like, which a man doth find and make in his own Land, for they are parcel of the inheri<g ref="char:EOLhyphen"/>tance, and the Parſon or Vicar hath tithe of the graſſe and corn upon the ground; and it is a rule, the Land muſt not pay a double Tithe; and beſides it is not a yearly profit. <hi>Regiſter</hi> 51. <hi>Fitz. Nat. Brev.</hi> 53. 9 <hi>Broo. Diſmes</hi> 18.</p>
+            <p>No Tithes regularly are to be paid for houſes of habitati<g ref="char:EOLhyphen"/>on, <note place="margin">Of Houſes.</note> nor of any rent, reſerved upon any demiſe of them, for tithes are to be paid of things that renew yearly by the Act of God. But by a ſpecial cuſtome, or by an Act of Parlia<g ref="char:EOLhyphen"/>ment, as in <hi>London,</hi> where the Parſons have 2 s. 9 d. out of every pound rent in lieu of Tithe, there it is good enough, <hi>Cook</hi> 11. 16. <hi>Fitz. Nat. Brov.</hi> 53. 37 <hi>Hen.</hi> 8. <hi>Ch.</hi> 12.</p>
+            <p>If any barren heath, or waſte ground, that is barren <note place="margin">Of barren heath and waſt ground.</note> in his own Nature, and that cannot be fitted for hushandry without an extraordinary charge, although it may pay tithe of wool, or Lamb, or other things, or the tithe that it formerly paid, yet it ſhall pay no tithe of corn for ſeven yeers after they have by their Husbandry improved it, and made it fit for tillage. But if a wood be grubbed up, and made fit to plough, this muſt pay tithe preſently. So if it be<g ref="char:EOLhyphen"/>come barren by a ſudden accident of inundation, or the like, or by being overgrowne with buſhes or the like, and it be re<g ref="char:EOLhyphen"/>duced, this muſt pay Tithe preſently. <hi>M.</hi> 11. <hi>Jac. C. B. Shar<g ref="char:EOLhyphen"/>ringtons Caſe, Dyer</hi> 170. 2 <hi>Ed.</hi> 6. <hi>Ch.</hi> 13.</p>
+            <pb n="10" facs="tcp:115688:9"/>
+            <p>Tithes are to be paid for all new Corn-mills, be they <note place="margin">Of Mils.</note> wind or water Mils; and for Fulling, Paper, or Apple-mils that are common and publick mils; and whether they be dri<g ref="char:EOLhyphen"/>ven by wind or water, ſome tithe or other is to be paid for them. But for an old corn mill, that no tithe was ever paid for, no Tithe is to be paid, exept perſonal tithe, as for a trade of profit, and ſo it will be for the other Mils. But ſee how it is to be paid <hi>Chap.</hi> 5. <hi>Sect.</hi> 1.</p>
+            <p>Tithes are to be paid of turves that grow in ſenniſh and: <note place="margin">Of Turves.</note> mooriſh grounds, when they are uſed for firing.</p>
+            <p>Tithes ſhall be paid of heath, furrs and broom, unleſs the <note place="margin">Of heath, furs, and broom.</note> own<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r can preſcribe, or make good a ſpecial cuſtome of pay<g ref="char:EOLhyphen"/>ment of milk and calves, &amp;c. of the cattel kept upon the ground, <hi>M.</hi> 29 <hi>El. B. R Adjudge.</hi>
+            </p>
+            <p>Tithe is to be paid of the graſſe growing on the ground <note place="margin">
+                  <hi>Sect.</hi> 3. Of graſs, cut or eaten.</note> whether it be cut for hay, or eat by cattle, to be ſet out accor<g ref="char:EOLhyphen"/>ding to the cuſtome of the place. And as to this kind of Tithe theſe things are to be known.</p>
+            <p n="1">1 A rate Tithe is to be paid according to the cuſtome of the place for the feeding of Sheep and all other cattel, (ſave only Oxen that labour, and the young cattel that are bred for Oxen or Cowes) as for horſes and Cattel that are fatted; for tithe muſt be paid for theſe, for the paſture and profit of the cattel, whether they go on the Common or elſewhere.</p>
+            <p n="2">2 If two Pariſhes together have Common becauſe of <note place="margin">Rate Tythe.</note> vicinage, and the cattel of the one ſide do ſtray to the other ſide, and there a bide; in this caſe no tithe ſhall be paid for this to the Parſon of the Pariſh where the Cattel do ſtray, but to the Parſon of the other pariſh. So if ſheep ſtray out of one into another Pariſh, and there cane, no tithe is to be paid for this to the Parſon of that place; but if they go there by the ſpace of one Month or more, for this a rate Tithe muſt be paid to that place where they are for a month together. And ſo in all caſes where ſheep go a while in one, and another while in another pariſh. <hi>Trin. 7. Jac. B. R. Bro<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. Diſm<gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>. 16.</hi>
+            </p>
+            <p n="3">3 If ſheep after they be ſhorn dye before Eaſter next
+<pb n="11" facs="tcp:115688:9"/> following, it is ſaid no Tithe ſhall be paid for their wooll, unleſſe the Parſon or Vicar that claimes it, can alledge a ſpecial preſcription for it. So no Tithes are to be paid of the pelts or fells of ſheep wich dye of the rot without a ſpe<g ref="char:EOLhyphen"/>cial preſcription for it. <hi>Trin. 3. Car. B. R. Aſhton's Caſe.</hi>
+            </p>
+            <p n="4">4 Tithe muſt be paid for all the grounds within the pa<g ref="char:EOLhyphen"/>riſh; <note place="margin">Grounds let.</note> and therefore if the grounds within the pariſh be let, or the herbage there be ſold to a ſtranger out of the pariſh, the Tithe muſt be paid to the Parſon, and that by the Ow<g ref="char:EOLhyphen"/>ner of the Cattle, unleſſe the courſe there bee other<g ref="char:EOLhyphen"/>wiſe.</p>
+            <p n="5">5 It ſeems Tithe is to be paid for the Agiſtment, that is, tracking in of cattel of ſtrangers in the pariſh: And that <note place="margin">Agiſtment or rack of cattel.</note> to be paid by the owner of the Land that took them in, and not by the owner of the cattel; for the Parſon may not know the owner of the cattel, 17 <hi>Jac. B. R.</hi> But if there be any cuſtome againſt it, this may prevent it, and make it payable by the ſtranger.</p>
+            <p n="6">6 No tithe is to be paid for the herbage or feeding of <note place="margin">Horses.</note> riding horſes, that the Pariſhoner doth uſe for his own ri<g ref="char:EOLhyphen"/>ding. And if a man let out his paſture Lands, reſerving the paſture for one horſe to ride about his own affairs, or for husbandary, no tithe ſhall be paid for the paſture for this horſe. But if a man keep or breed a horſe or horſes in his paſture to ſell them, there a tithe ſhall be paid for the horſes paſture. <hi>H. 15. Jac. B. R. Hides Caſe.</hi>
+            </p>
+            <p n="7">7 No tithe is to be paid for the graſſe eaten by the <note place="margin">Plough cattel.</note> working Oxen or Horſes about Husbandry, that are uſed in the pariſh about Husbandry. But if the Pariſhioner uſe them to other purpoſes within the pariſh, or for husbandry with<g ref="char:EOLhyphen"/>out the pariſh, it may be otherwiſe. <hi>M. 8. Jac. Ct. B. in Baxters Caſe.</hi>
+            </p>
+            <p n="8">8 No tithe ſhall be paid for the feeding of cowes that <note place="margin">
+                  <hi>Sect.</hi> 4. Cowes and barren cattel.</note> give milk, nor for barren and dry cattel that are bred for the plough or paile, whether they feed in the incloſed or in the common grounds of the pariſh. But if a man keep cattel until they are ready for the pail or the plough, and then fel
+<pb n="12" facs="tcp:115688:10"/> them, and make profit of them, in this caſe he is to pay tithe for them; for if the owner feed his ground with cattel that bring no profit to the Parſon, he muſt pay tithes for them. <hi>M. 8. Jac. Co. B. Baxters Caſe. Trin. 9. Jac. B. R. The whole Court.</hi>
+            </p>
+            <p n="9">9 If a ſtranger feed a ground within the pariſh with his <note place="margin">S<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rangers rent<g ref="char:EOLhyphen"/>ing within the Pariſh.</note> cattel that do bring no profit to that Parſon or Vicar, he is to pay Tithe for it And therefore it ſeemes reaſonable, that though it he his own ground that is the ſtranger, and he feed them with his owne cattel that do work in another pariſh, that he ſhould pay as ſtranger that doth rent a ground within the pariſh.</p>
+            <p n="10">10. No Tithe is to be paid of the Eamouth or after <note place="margin">Eamouth or af<g ref="char:EOLhyphen"/>ter paſture.</note> after the graſs is mowed and Tithe hath been paid of it, unleſs by covin there hath been more graſſe left then is uſual. Nor is there any Tithe to be paid for the herbage of the cattel that eat up the ſame graſs, unleſs there be ſome Fraud in the caſe. <hi>Paſch. 17. Jac. Co. B. Adjudg. M. 6. Jac. Co. B. Smiths Caſe.</hi>
+            </p>
+            <p n="11">11 No tithe is to be paid for the graſs or herbage of the ſtuds, or meers of ground at the Lands end, and adjoin<g ref="char:EOLhyphen"/>ing to the errable Land, where the Land it ſelfe doth pay Tithe. And ſo if Lands lye fallow every ſecond or third year, the Owner ſhall pay no tithe for the paſture of this Land, nor for feeding upon the ſtubble, albeit it bee fed with barren Cattel. <hi>Paſch. 7. Jac. Co. B. Adjung.</hi> And yet if he keep it lay beyond the courſe of Husbandry, in this caſe he is to pay Tithe again.</p>
+            <p n="12">12 No tithe is to be paid for the herbage of the ground whereon corn hath been ſowen that hath paid tithe, no more then for the rakings of the ſtubble, <hi>Paſch. 7. Jac. Co. B.</hi> 
+               <note place="margin">Rankings of ſtubble.</note> 
+               <hi>Adjudg.</hi>
+            </p>
+            <p n="13">13 If a man bring in a ſlock of Sheep to dung the Land, and they come by night only and lye there, no tithe is to be paid for this; but if they feed there half their time, they wil be tytheable.</p>
+            <p>For the time when and how theſe Tythes are to be paid and done, ſee in <hi>Chap. 5. Sect.</hi> 1.</p>
+            <pb n="13" facs="tcp:115688:10"/>
+            <p>Tythes alſo are to be paid of all ſuch things as come <note place="margin">
+                  <hi>Sect.</hi> 5.</note> in yearly by the bleſſing of God, and the induſtry of the par<g ref="char:EOLhyphen"/>ty together. And therefore Tythes muſt be paid of all kind of corn ſowne upon the ground; as wheat, rye, <note place="margin">Of corn ſown</note> barly, beans, peaſe, and the like, to be ſet out after the cuſtome of the place. So alſo Tythe muſt be paid of plants, herbs, and ſeeds of Woad, Saffron, Flax, Hemp, and the like.</p>
+            <p>And as to this, theſe things are to be known.</p>
+            <p n="1">1 No Tithe is to be paid for the after rakings, or ſtub<g ref="char:EOLhyphen"/>ble of corn, when Tythe hath been paid for the corn it ſelf, unleſs it be where there hath been fraud in cutting it over<g ref="char:EOLhyphen"/>long.</p>
+            <p n="2">2 No Tythe is to be paid for the courſe corn, as Vetches, Tares and the like, which is eaten up by the cattel that do the Husbandry there, whether it be eaten green or ripe, or eaten upon the ground where it groweth or elſewhere, un<g ref="char:EOLhyphen"/>leſſe the Parſon have a ſpecial cuſtom for it.</p>
+            <p n="3">3 If Corne be ſowed where Woad was ſowen, or where other things grew, the Tythe ſhall be paid of this, <note place="margin">Change of grain.</note> and in its own kind alſo. So if Woad or other things bee ſowed where Corne had been ſowed; the Owner of the Soile muſt pay his Tythe, and pay it in kind of that which groweth there, as he doth in the change of wheat, beans, barly, &amp;c.</p>
+            <p n="4">4 If the Soile of an Orchard be ſowen with any kind of grain, the Parſon will have Tythe of it; although hee have Tythe of the fruit of the trees, for they are of ſeveral kinds.</p>
+            <p>Tythes alſo muſt be paid of the calves of Kine, Lambs of Sheep, young Pigs of Sowes, Colts of Mares, Kids of <note place="margin">
+                  <hi>Sect.</hi> 6. Of cattel and fowle.</note> Goats, &amp;c. Alſo of the cheeſe and milk of Cowes, Sheep, and Goats, and of the wool of Sheep; and of the eggs and young of Hens, Geeſe, Ducks, &amp;c. and of the honey and wax of Bees, and for dry cattel, and fat beaſts ſold and killed, and according to the courſe of the place.</p>
+            <pb n="14" facs="tcp:115688:11"/>
+            <p>But for the further opening hereof theſe things are to bee knowne.</p>
+            <p n="1">1. If the Pariſhioner have but nine pigs, or ſix calves, the Parſon can have no Tythe in kind that year, without a ſpecial cuſtome to warrant it, as in many places there is; for theſe things are intire, and not divideable as wool is. And therefore the Parſon muſt have his Tythe <hi>prorata,</hi> ei<g ref="char:EOLhyphen"/>ther in money the ſame year, if there be any cuſtome for it, or in kind the next year, and ſo reckon both the yeers toge<g ref="char:EOLhyphen"/>ther. <hi>M 7. Jac. Co. B.</hi> And if a Pariſhioner have but one Cow, or milk his Cow every ſecond day; ſo that he can make no cheeſe, in this caſe the cuſtome of the place is to be obſerved, ſo that ſomething be paid; otherwiſe no cuſtom in this caſe will bind: ſo for calves, colts, and kids, when they are under the number of Tythe in kind; and if there be no cuſtome in it, the Parſon muſt have the tenth when<g ref="char:EOLhyphen"/>ever it comes.</p>
+            <p n="2">2. It hath been ſaid that no tythe is to be paid for dry <note place="margin">Dry cattel.</note> cattel bred for the plough or paile, unleſſe they be ſold a<g ref="char:EOLhyphen"/>way before they be put to that uſe; for tythe muſt be paid for ſuch cattel, and for fatting cattel ſold or killed after the cuſtome of the place. <hi>M. 17. Jac. B. R. curia, M. 2 Jac. B. R. W<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>bs Caſe.</hi> And though at firſt they were bred for the plough or pail, yet after fatted and kild, or ſold, Tythe muſt be paid for them. <hi>M. 8. Caroli, by three Ju<g ref="char:EOLhyphen"/>ſtices.</hi>
+            </p>
+            <p n="3">3 Tythe muſt be paid of the locks and flocks of wool, af<g ref="char:EOLhyphen"/>ter <note place="margin">Locks of wool.</note> the wool made up, if they be more then ordinary, and left deceitfully, otherwiſe not.</p>
+            <p n="4">4 Where ſheep be removed from one Pariſh to another, <note place="margin">Rate Tithe for wool of ſheep, and of young cattel.</note> each Parſon muſt have <hi>prorata,</hi> but under three dayes no rate is to be paid; as for example, If forty ſheep yeild eigh<g ref="char:EOLhyphen"/>ty pound of wooll, and theſe have been fed and lyen all the year in one place; in this caſe the Parſon of that place muſt have all the Tythe; if the ſheep were there but half the year, then he is to have but forty pound of the wool; if three months only, then but twenty pound of the wool, and ſo ratably for four or five months more or leſſe. And the
+<pb n="15" facs="tcp:115688:11"/> Parſon in whoſe Pariſh the ſheep lay and fed but one month he ſhall have only the Tithe of the twelfth part of the wool: and if the ſheep feed all the yeer in one pariſh, and lye in another pariſh, the Tythe ſhall be divided betwixt the Par<g ref="char:EOLhyphen"/>ſons. And if ſheep come from one place, and be ſhorne in a place where they were not before, it ſeemes the Tythe muſt be paid where the ſheering is, unleſſe it appear to bee paid to the Parſon of the place from whence they came. And ſo of the young of cattel, lambs, calves, pigs, colts and the like, where the dam was removed from one place to a<g ref="char:EOLhyphen"/>nother, a rate Tythe muſt be paid to the Parſon according to the times of their abode in the ſeveral places from the times of their engendring by the month rate. <hi>Broo. Diſmes</hi> 16.</p>
+            <p n="5">5 If any have cattel tytheable feeding in any waſt place, not commonly knowne to be in any Pariſh, yet the Tythe thereof is to be paid, and to be paid to the Parſon of the place where the owner of the cattel doth dwel.</p>
+            <p n="6">6 When the Tenth part of the milk is paid, there muſt be no Tythe paid of the cheeſe which is made of the other nine parts of the milk. And ſo where Tythe is paid for the cheeſe, no Tithe is paid for the milk.</p>
+            <p>But ſee more of this, and when, and how this is to bee paid and delivered in <hi>Chap. 5. Sect. 2.</hi>
+            </p>
+            <p>Some Tythe is to be paid of Parks, Warrens, Pools, Ponds and Dove-houſes, and for Conveys, Pigeons, and Fiſh. <note place="margin">
+                  <hi>Sect.</hi> 7. Of Parks, war<g ref="char:EOLhyphen"/>rens, pools and Dove-houſes.</note> And ſome would have Conveys in a Coniger, fiſh in a pond, or ſeveral fiſhing in the nature of Predial Tythes; and that the tenth of the profit is to be allowed.</p>
+            <p>But for the opening of this, take theſe things,</p>
+            <p n="1">1 That where the things bring in a certain profit, and without much charge, as coneys, fiſh and pigeons, there is great reaſon the Parſon or Vicar ſhould have the full Tythe
+<note place="margin">Coneys, Fiſh, Pigeons.</note> of them; and in theſe caſes a diviſion may be eaſily made.</p>
+            <p n="2">2 The Pigeons are a ſenſible loſs to the Parſon in the de<g ref="char:EOLhyphen"/>ſtruction of Corn, and good reaſon then the Parſon ſhould have ſome profit by them.</p>
+            <p n="3">3 In ſome caſes, as where Gentlemen have turned their fields
+<pb n="16" facs="tcp:115688:12"/> into Conigers, and laid down their tillage, the loſs of the Parſon hath been notorious, and the caſe grievious hurtful to the Parſon and Commonwealth, profitable to none but the Owner of the Land; theſe caſes deſerve no favour.</p>
+            <p n="4">4 We conceive the Parſon will have no remedy in this caſe by Law; and that in all theſe caſes there is nothing to be had but what the cuſtome or uſage yeilds; for Deer and Coneys being wild, are not reckoned a mans own till they <note place="margin">Ferae Naturae.</note> are catched. And a man is to pay Tythe of nothing where, of he hath not a property, except only the perſonal Tythe which is a ſmall matter. When Pheaſants Partriges, Swans and ſuch like wild things of profit become tame, it ſeemes <note place="margin">Matters of pleaſure.</note> they muſt pay Tythe, but not otherwiſe. And for ſuch things of pleaſure as are of no profit, as Hawks, Hounds, Apes, Thruſhes, Poppingjayes and the like, no Tythe ſhall be paid of theſe.</p>
+            <p>Some Tythe hath been by uſage paid in the nature of <note place="margin">Perſonal tythe. Trades and la<g ref="char:EOLhyphen"/>bourſ.</note> perſonal Tythe for mens Trades and labours. So Fiſhers, Fowlers, Hawkers, and the like, not ſuch as fiſh, hunt, and fowle for pleaſure, but ſuch as make a Trade of, and get by Fiſhing, Hunting, and Fowling, have paid. So Carpenters, Maſons, and all handicrafts men have paid; ſo Merchants, Mercers, Drapers, and all Tradeſmen; ſo men-ſervants and maid ſervants have paid ſome ſmall matter in the nature of an offering, as the tenth of their clear gain once a year to the Parſon: and this to be paid ſtill according to the cuſtome of the place.</p>
+            <p>And for any other things, or for things tytheable out of any Land, which by the Lawes, by any Priviledg, Preſcription or compoſition ought to be diſcharged, no Tythe is to be paid.</p>
+            <p>See more of this, and how theſe Tythes ſhal be paid, <hi>chap. 5. Sect. 3.</hi>
+            </p>
+         </div>
+         <div n="6" type="chapter">
+            <pb n="17" facs="tcp:115688:12"/>
+            <head>CHAP. VI.</head>
+            <argument>
+               <p>When, where, and how Tythes payable muſt be paid and ſet forth, and when the Parſon, &amp;c. may take them:</p>
+            </argument>
+            <p>FOR anſwer to this Queſtion in the general, the Law ſaith, That all Tythes and Church duties are to be yeil<g ref="char:EOLhyphen"/>ded and paid according to the uſage and cuſtome of the place where they are to be paid. <hi>Stat. 27. H. 8. 20. 32 H. 8 7.</hi> And for Predial Tythes, the tenth part of the profits are to be ſet forth and divided from the nine parts in the place where they grow, before the Owner taketh away his part thereof: and the Owner is to ſend to the Parſon, who is to ſend his ſervant when the Title is to be ſerved, and ſee that it be juſtly done; and then the Law doth give him a reaſonable time to take it away. And if Tithe be once ſet out and divided, the Parſon, not the Pariſhioner muſt look to it, for he muſt bear the loſs of it, if any come to it. And this ſetting out of the Tithe the Law ſaith muſt be ef<g ref="char:EOLhyphen"/>fectual; and therefore if the Owner ſet out his Tythe, and then take it away again, this is not a good payment of his Tythe: and if the Owner ſell the whole to another before the Tythe be ſet out, with an agreement to deceive the Par<g ref="char:EOLhyphen"/>ſon; this is fraud, and not allowed for a good payment in Law And this muſt be heeded as to the manner of Tything, That the cuſtom of the place is to be obſerved; for in ſome places the cuſtome is to leave the Tythe in graſs in ſwathes, in other places in windrowes, in other places in graſs cocks, in other places in hay-cocks, and either way it is good. So for the time when, and place where, the cu<g ref="char:EOLhyphen"/>ſtome of the place muſt be followed, but the Parſon ſhall
+<pb n="18" facs="tcp:115688:13"/> have reaſonable time to take it away. <hi>Broo. Treſpaſs 125. Cook 2 Part Inſtit.</hi> 610.</p>
+            <p>To give to the Parſon the Tenth Acre of wood in a Cop<g ref="char:EOLhyphen"/>pice, or the tenth coard (if the coards be equal) is a good <note place="margin">Of trees and wood.</note> payment and ſetting forth of this Tythe, eſpecially if it be the cuſtome of Tithing wood in the Countrey.</p>
+            <p>The Tythe of the Maſt of Oak and Beech, if it be ſold, muſt be anſwered by the tenth penny; it is be eaten by pigs, the tenth of the worth thereof muſt be anſwered. And the moſt reaſonable way of payment for any thing ſold, is to pay the Parſon the tenth penny of the money made thereof.</p>
+            <p>The payment of Tithes and Church Duties in the City of <hi>London,</hi> which is 2 s. 9 d. in the pound of the rent of their <note place="margin">Of Houſes in <hi>London.</hi>
+               </note> Houſes, is to bee made according to the uſage there. <hi>Stat. 27. H.</hi> 8. 20. and 32. <hi>H. 8. 7. 37. H. 8. 12. Cook</hi> 11. 16.</p>
+            <p>The tythe of the new corn mil muſt not be the tenth pen<g ref="char:EOLhyphen"/>ny of the rent, but the tenth meaſure of the corn, or the <note place="margin">Sect. 1. of Mils.</note> tenth tole diſh, if there be no cuſtome in it. But the Mil<g ref="char:EOLhyphen"/>lard for his Fulling-mil, Rape-mil, Paper-mil, Iron, Pow<g ref="char:EOLhyphen"/>der, Lead, Edge, Copper, and Tin mils; and ſo for an ancient Corn-mil, is to pay only perſonal Tythe, as for a Handicraft or Faculty. <hi>Paſch. 17. Jac. Johnſons Caſe. Fitz. Nat. Brev. 41. G. Coo.</hi> 2. 44. And if a rate tythe be paid for two Mils in one houſe, and one of them is made a Corn-mill; in this caſe Tythe ſhall be paid in kind for this Mill. And if one pair of mill-ſtones be turned into two pair of Mill-ſtones, now both of them muſt pay Tythe, and the priviledge is loſt. <hi>Brownl. Rep. 1. Part</hi> 31.</p>
+            <p>The Tythe of the hay, may be ſet out and delivered in <note place="margin">Of graſs, cut or eaten.</note> ſwathes, windrowes, or cocks, as the cuſtome of the place is.</p>
+            <p>The Tythe fruit of Apple-trees, Pear-trees, &amp; the like trees <note place="margin">Fruits of trees as Apples, &amp;c.</note> are to be ſet out and delivered when they are newly gather<g ref="char:EOLhyphen"/>ed, and if then the Owner do not give the Parſon notice and ſet them out, and they be by his meanes loſt or impaired,
+<pb n="19" facs="tcp:115688:13"/> the Owner is chargeable to the Parſon in treble da<g ref="char:EOLhyphen"/>mages.</p>
+            <p>The common courſe of ſetting out and delivering corne <note place="margin">Of corn ſown</note> by the common Law, is by the tenth ſhock, cock, or ſheaf; but if the cuſtome of the place be otherwiſe, the Parſon muſt ſit down by it; and if there be a cuſtom to put the corn into ſhocks, and that every ſhock be ten ſheaves, and that the Parſon muſt have the tenth ſhock; it muſt be done by two Juſtices, <hi>B. R.</hi> But without a ſpecial cuſtome binding the Owner of the Land, he is not bound to ſet the Parſons part of the corn up an end in ſhocks. <hi>Smith's Caſe, Co. B. the Conrt.</hi>
+            </p>
+            <p>The tythe ſeeds and herbs of gardens and fields, as Rape, <note place="margin">Of ſeeds and herbs.</note> Hemp, Flax, Parſley, Fennel, and the like, and of Sage, Mints, Onions, Leeks, and the like, either of the ſeed, or of the herb before the ſeed time; this muſt bee paid at the time when the Owner doth receive in his nine parts thereof.</p>
+            <p>The time when the calves and Lambs are to be paid and delivered, is when they are weanable, and able to live with<g ref="char:EOLhyphen"/>out <note place="margin">
+                  <hi>Sect.</hi> 1. Of calves and lambs.</note> the Dam, and unleſſe there be any cuſtom herein againſt the Parſon, at this time all theſe young things are to be de<g ref="char:EOLhyphen"/>livered. And if the owner ſell any calf or lamb, in moſt places the Parſon is to have the tenth penny of the money, and ſo muſt, if there be nothing in the cuſtom againſt it. And if the Owner kill a calf in ſome places, the Parſon hath the right ſhoulder, and the cuſtome muſt be yeilded to as reaſonable, if any thing though never ſo little, be paid for it, otherwiſe not.</p>
+            <p>The Tythe of milk and cheeſe is to be paid in the ſeaſon <note place="margin">Of milk and cheeſe,</note> thereof, and ſo long, and ſo ſoon as either of them is ta<g ref="char:EOLhyphen"/>ken by the pariſhioner.</p>
+            <p>The tenth meaſure of honey and the tenth weight of wax, not the tenth Bee, nor the tenth ſwarm of Bees is to <note place="margin">Bees.</note> be paid for Bees.</p>
+            <p>The Tythe of chicken and eggs, of all kind of tame birds <note place="margin">Of hens, ducks wild and tame.</note> or fowle, as Swans, Hens, Ducks, Geeſe, they are to be delivered and paid, or that which is paid for them, accor<g ref="char:EOLhyphen"/>ding to the cuſtome of the place. But for wild Swans, Geeſe
+<pb n="20" facs="tcp:115688:14"/> and Ducks, if they be taken in, and from a certain and known place, they are ſaid to be tytheable, as Predial Tythes; but if from incertain and unknowne places, they are ſaid to be as perſonal Tythes. But I ſuppoſe no Tythe is to be paid in either caſe.</p>
+            <p>For perſonal Tythes, which is for Trades, Crafts, and manual Occupations, and the profit made thereby. It is <note place="margin">
+                  <hi>Sect.</hi> 3. Perſonal Tythes.</note> provided by a ſpecial Law, That all ſuch as uſe trading, buying and ſelling, handicrafts (except common Labourers) ſhall pay their Tythes, as they were uſed to be paid forty years before the Statute of 2 <hi>Ed.</hi> 6. and as of right they ought to be paid. And for this the Pariſhioner doth uſe at or about Eaſter (in moſt places the uſual time of payment for ſmal Tythes) to pay a ſmall ſum of mony to the Parſon or Vicar. And according to the cuſtome of the place men are to pay, for without a cuſtom for it nothing at this day is to be paid for this: by three Judges. <hi>Co. B.</hi> 17. <hi>Jac.</hi>
+            </p>
+            <p>And for all, or any of theſe things, in caſe where the Owner may let or ſell the thing of which the Tythe is to be had, the beſt way is to let the Parſon or Vicar to have the tenth pen<g ref="char:EOLhyphen"/>ny made by the ſale, as they have generally of grounds let to ſtrangers out of the pariſh; in which caſe the Parſon hath commonly, and muſt have, if there be no cuſtome againſt it, the tenth penny of the Rent.</p>
+            <p>But in no caſe the Parſon or Vicar may take his Tythe be<g ref="char:EOLhyphen"/>fore the ſame be ſevered from the nine parts and tythed. And if the Owner will not cut his corn till it be ſpoiled, the Par<g ref="char:EOLhyphen"/>ſon is remedileſs. 12 <hi>Ed.</hi> 4. <hi>D.</hi> &amp; <hi>St.</hi> 169.</p>
+         </div>
+         <div n="7" type="chapter">
+            <pb n="21" facs="tcp:115688:14"/>
+            <head>CHAP. VII.</head>
+            <argument>
+               <p>Who muſt pay the Tithe that is to be paid, and may be ſued for it? and to whom the Tythe muſt be paid?</p>
+            </argument>
+            <p>FOR anſwer to the firſt part of this Queſtion, take theſe things. <note place="margin">
+                  <hi>Sect.</hi> 1.</note>
+            </p>
+            <p n="1">1. That generally he that receiveth the nine parts, is to pay the tenth part to the Parſon. And yet if a main that is Ow<g ref="char:EOLhyphen"/>ner of a Coppice, or other ſuch like thing, and he cut it and ſell it all; in this caſe the Seller muſt anſwer the Parſon for his Tythe, and not the buyer. And therefore if <hi>A</hi> cut the graſs of his ground, and put it all (not ſetting out Tithe) in a Rick in the ground, and three months after he ſell it a<g ref="char:EOLhyphen"/>way to B, in this caſe B cannot be ſued for this tithe. <hi>Hill.</hi> 16 <hi>Jac.</hi> by chief Juſtice, in <hi>Aſhfields Caſe.</hi> And if one ſell underwoods ſtanding, the Buyer, not the ſeller muſt an<g ref="char:EOLhyphen"/>ſwer the tythe. But the tythe due for fellets before the ſale, the ſeller muſt anſwer for this.</p>
+            <p n="2">2. If a Pariſhioner dye before he pay his tythe, his Ex<g ref="char:EOLhyphen"/>cutor, if he have Aſſets, muſt pay it. <note place="margin">Executor.</note>
+            </p>
+            <p n="3">3. If a Pariſhoner let or ſell his ground or herbage, it is ſaid the Parſon may ſue the Owner of the ground, or the Ow<g ref="char:EOLhyphen"/>ner of the cattel, at his choiſe, which is reaſonable, if the u<g ref="char:EOLhyphen"/>ſage be not againſt it.</p>
+            <p n="4">4. If cattle be pawned or pledged, the Gagee muſt pay tythe for them. But if I deliver my goods to <hi>H.</hi> to be rede<g ref="char:EOLhyphen"/>livered to me, I muſt pay tythe for them.</p>
+            <p>And for anſwer to the ſecond part of this Queſtion, theſe things are to be known.</p>
+            <p n="1">1. The Tythes muſt paid to him that hath right to
+<pb n="22" facs="tcp:115688:15"/> them, be he Lay-man, as an Impropriator, or a Clergy<g ref="char:EOLhyphen"/>man (as we have called them, and be he Parſon or Vicar of the place.</p>
+            <p n="2">2 The rule generally is this, That the tythe muſt be paid to the Parſon or Vicar of the Pariſh wherein it ariſeth, and not to the Parſon or Vicar of another Pariſh.</p>
+            <p n="3">3 The tythe hapning in the time of the vacation, the ſuc<g ref="char:EOLhyphen"/>ceeding Parſon is to have it; but they that gather it in may keep up ſo much thereof, as to pay them their charge in the collection thereof, and to Miniſters that did ſerve the Cure there. And if one be put into a place, and then he is removed, and another is put in, the firſt of theſe ſhall have the Tythes that hapned in the vacation time. <hi>Hil.</hi> 18. <hi>Jac. Woods Caſe.</hi>
+            </p>
+            <p n="4">4. If any man have cattel tytheable feeding in any waſte, or place which is not certainly known to be in any Pariſh, the tythe thereof ſhall be paid to the Parſon of the place where the Owner of the cattel doth dwell.</p>
+            <p n="5">5 If a man living in the Pariſh of <hi>A,</hi> being a common Fiſh<g ref="char:EOLhyphen"/>er, Fowler, or Hunter, and fiſh, fowle, or hunt in the grounds of <hi>H.</hi> in <hi>B,</hi> and take fiſh there, if this were free and without reward in <hi>H.</hi> then it is a perſonal Tythe that muſt be paid to the Parſon of <hi>A.</hi> But if <hi>H.</hi> had mo<g ref="char:EOLhyphen"/>ney or reward for this, then it is ſaid <hi>H.</hi> muſt pay the Par<g ref="char:EOLhyphen"/>ſon of <hi>B,</hi> as for a predial Tythe.</p>
+            <p> 6. Perſonal Tithes are alwayes to be paid to the Parſon or Vicar of that place where the perſon that is to pay the tythes doth dwel.</p>
+         </div>
+         <div n="8" type="chapter">
+            <pb n="23" facs="tcp:115688:15"/>
+            <head>CHAP. VIII.</head>
+            <argument>
+               <p>Which way the Owner of Tythes, and ſuch like things, may recover them being detained.</p>
+            </argument>
+            <p>FOR anſwer to this, we are to know, that by the ancient Law of the Nation, Tythes were not recoverable by any man in any place but in the Spiritual Court, and there by no perſon but ſuch as they called Spiritual perſons, or Clergy men, and this Eccleſiaſtical Court is gone. But they are now recoverable by all ſorts of men alike, and in theſe waies, Firſt for Predial Tithes, ſuch as are the Tythe of wood, graſs, fruit, hay, and the like divideable things; if theſe be not duly and truly divided and ſet forth, as before is ſhewed they ought to be, the Parſon or Vicar may ſue for them in a<g ref="char:EOLhyphen"/>ny of the Courts by an Action of Debt, wherein he ſhall re<g ref="char:EOLhyphen"/>cover treble damages upon the Statute of <hi>Ed.</hi> 6.</p>
+            <p>But for leſſer Tithes of Wool and Lamb, and the like, no Action will lye upon this Statute, nor for money given to the Parſon in lieu of them. But for the one and the o<g ref="char:EOLhyphen"/>ther, the party grieved may at this day ſue in the Chancery, or in the Exchequer, or before two Juſtices of the Peace, who in moſt caſes for all Tythe, Offerings, Oblations, Obventions, rates for Tythes, and all Arears thereof, are to give relief. <hi>Stat.</hi> 27. <hi>H.</hi> 8. 20. 2 <hi>Ed.</hi> 6. 13. 32 <hi>H.</hi> 8. 7. <hi>Cook upon Litt.</hi> 159:</p>
+            <p>And if the Tythe be once ſerved and ſet forth, and they be after taken away by the owner of the Land or a ſtranger; in this caſe the Parſon may have an Action of Treſpaſſe a<g ref="char:EOLhyphen"/>gainſt him. <hi>Broo. Diſmes</hi> 6. <hi>Brownl.</hi> 2 <hi>Part</hi> 30.</p>
+         </div>
+         <div n="9" type="chapter">
+            <pb n="24" facs="tcp:115688:16"/>
+            <head>CHAP. IX.</head>
+            <argument>
+               <p>In what caſe, and how a perſon or place may be quit and diſcharged of Tythes: and what ſhall be a good diſcharge, or not?</p>
+            </argument>
+            <p>SPiritual perſons were ſome of them formerly diſcharged of Tythe by their Order, but there are no ſuch diſchar<g ref="char:EOLhyphen"/>ges <note place="margin">
+                  <hi>Sect.</hi> 2.</note> now; but a diſcharge of tythes may be at this day by the cuſtome of a Country, or by a Preſcription, or by a Compoſition, which at firſt was made by and between the Parſon, Patron, and Ordinary, and another, or by an alte<g ref="char:EOLhyphen"/>ration of the place out of which the tythe doth come, or by an Act of Parliament, and by a unity of poſſeſſion, <hi>Cook</hi> 1 <hi>Part</hi> 33. 2 &amp; 3 <hi>Ed.</hi> 6. 13. 32 <hi>H.</hi> 8. 7. <hi>Cook</hi> 44. Or by priviledg, as certain Religious Orders, Templers, and o<g ref="char:EOLhyphen"/>thers, of which there are none with us. And therefore no ſuch diſcharge can be amongſt us at this day. <hi>Brownlow's</hi> 2 <hi>Part</hi> 33. Or they may be ſuſpended for a certain time, and revived again. Of all which ſee examples in the caſes that follow.</p>
+            <p>A man may be diſcharged of payment of Tythe by a cu<g ref="char:EOLhyphen"/>ſtom or preſcription. Wherein theſe things are to be known.</p>
+            <p n="1">1 Cuſtom and Preſcription do differ but little; cuſtom <note place="margin">By cuſtome or preſcription. And what is good or not.</note> goes to a place or Country, and preſcription to a perſon.</p>
+            <p n="2">2 A cuſtom applyed to a Country to pay no tythe in ſome caſes, as the cuſtom for the Wild, being forty Pariſhes in <hi>Suſſex,</hi> to pay no tythe, is good. But generally ſuch a cuſtome is not good, and a Preſcription to pay no tythe, nor any thing in lieu of it, is not good, nor wil it diſcharge, though nothing can be proved to be paid within the time of memo<g ref="char:EOLhyphen"/>ry. <hi>D.</hi> &amp; <hi>St.</hi> 171. 167. <hi>Broo. Preſcrip.</hi> 92. <hi>Cook</hi> 2. 44. And
+<pb n="25" facs="tcp:115688:16"/> yet one may ſhew a diſcharge of his Land another way which wil amount to the payment of no Tythe, nor nothing for it.</p>
+            <p n="3">3 But any man may preſcribe <hi>de modo decimandi; i. e.</hi> to pay money or other thing in lieu of the Tythe in kind for a Manor, Farm, or piece of Land; and if he can prove this time out of mind, this will diſcharge him. <hi>Cook</hi> 1. 44. 45. And therefore a Preſcription to pay 4 d, or any other ſum of money for all his Tythe whatſoever, or all his tythe hay, or all his tythe corn in ſuch a Farm or ſuch a Cloſe, is good. If one preſcribe that he is to put the corn of the ground in hillocks or cocks, &amp;c. and that for this the Parſon is to have no tythe corn every ſecond year, or is to have no Tythe in ſome part of the ground; this is good. So if he pre<g ref="char:EOLhyphen"/>ſcribe to pay the tenth fleece of wool, and for this to be diſ<g ref="char:EOLhyphen"/>charged of the tythe of the locks; this is a good Preſcripti<g ref="char:EOLhyphen"/>on. 36, 37. <hi>Eliz. Co. B. Jeſops Caſe.</hi> But if one preſcribe, that becauſe he doth pay tythe hay, he is to pay no tythe corn; or becauſe he payeth tythe corn, he is to pay no tythe of his cattel; this is not good. <hi>Smiths Caſe Hill.</hi> 8. <hi>Jac. B. R.</hi> So if one preſcribe to be diſcharged of Tythes in one place, becauſe he payeth Tythes in another place; or to be diſcharged of Tythes of Lambs, becauſe he payeth tithe of wool; or to be diſcharged of tithes of other cattel, becauſe he payeth 12 d for a Cow; theſe are not good Preſcripti<g ref="char:EOLhyphen"/>ons. <hi>Fleetwoods Caſe,</hi> 7 <hi>Jac. Co. B:</hi> If a cuſtom be alled<g ref="char:EOLhyphen"/>ged, That the Parſon ſhal have but the tenth ſheaf of wheat for the tithe of all manner of corn and grain; this is not a good cuſtome. <hi>Mich. 11. Jac. Co. B. Jacks Caſe. 38 Eliz. Co. B. Adjudg.</hi> So a cuſtome was alledged, That the Ow<g ref="char:EOLhyphen"/>ners of a Farm had been uſed time out of mind to take back 30 ſheaſs of their Tythe corn again after it was ſet out, to their own uſe. This was diſallowed.</p>
+            <p n="4">4 A Preſcription to pay a ſhoulder of a Buck or Doe, when they are killed, in lieu of all the Tythe of a Park, is good, and will diſcharge the <hi>Park. 3. 7 &amp; 37 Eliz. Shipdams Caſe.</hi> And although after the Park be diſcharged, and con<g ref="char:EOLhyphen"/>verted into tillage or hop ground, yet it is held that the Par<g ref="char:EOLhyphen"/>ſon
+<pb n="26" facs="tcp:115688:17"/> ſhall not have Tythes in kind, but the diſcharge ſhall continue. <hi>M.</hi> 5. <hi>Jac. Co. B. Adjudg. M. 11. Jac. Co. B. Cow<g ref="char:EOLhyphen"/>pers Caſe.</hi>
+            </p>
+            <p n="5">5 A Preſcription to pay a leſs part then the tenth part, <note place="margin">Sect. 2.</note> may be good and binding.</p>
+            <p n="6">6 A Preſcription that if one have leſs then ſeven Lambs, he ſhal pay but 1 d a piece ſor them, is good. <hi>Curia.</hi> 7. <hi>Jac. B. R. Patches Caſe.</hi>
+            </p>
+            <p n="7">7 A Preſcription to be diſcharged of Tithes for every houſe in <hi>London.</hi> in lieu of 12 d of the rent made of the houſe, is good. <hi>Cook</hi> 11. 16. And ſo for any other thing that may be conceived to have a reaſonable Commencement, the Law will admit it.</p>
+            <p n="8">8 One may preſcribe, That he, and all thoſe whoſe e<g ref="char:EOLhyphen"/>ſtates he hath in the Manor of <hi>Dale</hi> in <hi>Dale,</hi> time out of mind, have paid to the Parſon of <hi>Dale</hi> for the time being a certain Perſion yearly for the maintenance of Divine Service there, in ſatisfaction of all the Tithes ariſing and growing within the Manor of <hi>Dale;</hi> and preſcribes further, That he and all thoſe whoſe Eſtates he hath in the ſaid Manor, time out of mind, have been uſed in regard of the ſaid penſion ſo paid to the Parſon, to have all the Tythes happening and ariſing with<g ref="char:EOLhyphen"/>in the ſaid Manor or any part of it; <hi>viz.</hi> of all the Lands held of the ſaid Manor or any parcel of it; this is a good Preſcription, and may have a reaſonable beginning thus, That the Lord was ſeized of all the Manor before the Te<g ref="char:EOLhyphen"/>nancies derived out of it, and by ſome good Compoſition or Grant between him, the Parſon, Patron, and Ordinary, it was granted to him in lieu of this money, which muſt be in<g ref="char:EOLhyphen"/>tended becauſe time out of mind it hath been ſo paid. <hi>Cook</hi> 7 45. But without ſome ſpecial matter alledged, a Lord cannot preſcribe after this manner in him and all thoſe, &amp;c. gene<g ref="char:EOLhyphen"/>rally.</p>
+            <p n="9">9 Alſo a Pariſhioner may be diſcharged of Tythe by an agreement with the Parſon; if he be a Spiritual Perſon, he may diſcharge it for his life; if he be an Impropriator, he may diſcharge it for all the time he hath the Parſonage. But a ſpi<g ref="char:EOLhyphen"/>ritual Perſon cannot by his agreement bind his ſucceſſors.
+<pb n="27" facs="tcp:115688:17"/> And payment of a ſum of money in lieu and recompence of tythes for ſixty yeers, or thereabouts, is held a reaſonable time to make a Preſcription. <hi>Cook upon Litt.</hi> 14. <hi>Crompt. Jur.</hi> 77 <hi>Dyer</hi> 7. 9.</p>
+            <p>Tythe may be diſcharged by the alteration of the place or <note place="margin">
+                  <hi>Sect.</hi> 3, By an alterati<g ref="char:EOLhyphen"/>on of the place or thing out of which the tithe doth come, or by other alte<g ref="char:EOLhyphen"/>ration. Whether gone or not.</note> thing out of which the tythe is to come. For the opening of which take theſe things.</p>
+            <p n="1">1 If one preſcribe to be diſcharged of payment of tythe hay for ſuch a ground, or the tythe corn of ſuch a ground, and the owner change the nature of the ground, the paſture into tillage, or tillage into paſture; in theſe caſes the Pre<g ref="char:EOLhyphen"/>ſcription is gone. <hi>Hill.</hi> 7. <hi>Jac. B. R. Shipton's Caſe, adjudg.</hi> But if the Preſcription be general, 4 d for all manner of tithe ariſing in ſuch a ground, there the alteration will not hurt the preſcription. So it is if one preſcribe to pay the ſhoulder of every Buck and Deer of his Park for all manner of Tithe of the Park, and the whole Park be after diſparked and ſowne to corn, it is ſaid the Preſcription is gone, and that Tythes muſt now be paid in kind; but if any part of it remain a Park, and the reſt only be ſowed, it is otherwiſe. 36 37 <hi>Eliz. Shipdams Park in Norfolk.</hi> So it is ſaid, if all the Parks be ſuffered to fall down, which is a diſparking in Law of the Park, yet the ſame doth not deſtroy the manner of tithing, for the ſame may be a Park again: But ſome doubt of this. And a difference hath been taken, where a Preſcription runs to ſo many Acres of Land certain, for in that caſe the <hi>modus</hi> continueth: and where to the Park in the name of a Park, in which caſe it is gone if it be diſparked. <hi>Paſch.</hi> 19. <hi>Jac. Co. B. Pools Caſe.</hi> and in <hi>Brownl. Rep.</hi> 1 <hi>Part Paſch.</hi> 10. <hi>Jac. Co. B.</hi> 35. It is doubted whether the Tythes be not gone in both caſes; and held, That if a man can pre<g ref="char:EOLhyphen"/>ſcribe for ſo many bucks, that this Park is diſcharged, and if it be diſparked, that the preſcription is not gone.</p>
+            <p n="2">2 And if two Fulling mils be under one roof, and a rate Tythe be paid for the mils (which is a kind of preſcrip<g ref="char:EOLhyphen"/>tion) and after the mils are altered, and made into one corn-mill, in this caſe the preſcription is gone, and tythe
+<pb n="28" facs="tcp:115688:18"/> ſhall now be paid in kind. So if there be but one pair of ſtones in the mill, and after there is another pair of ſtones put in the mill; now tythe muſt be paid in kind, and the man<g ref="char:EOLhyphen"/>ner of tithing is gone. <hi>Brownl. Rep.</hi> 1. <hi>Part. Paſch.</hi> 10. <hi>Jac.</hi> 31.</p>
+            <p n="3">3 If I have the Tythe of the hay of a cloſe, or all manner of tythe there, and the owner of the ground turn it from Meadow to tillage, or to hops, or the like, or turne it from tillage to paſture, the tithe is not gone, but ſhall bee paid in kind as it falleth. So if one turne wood ground into meadow or tillage, the owner ſhall pay Tythe in kind, and tythe is not loſt hereby; only if it fall out to be within the caſe of barren heath, he ſhall pay for ſeven years no more then was paid formerly for it. See it before. <hi>Paſch.</hi> 18. <hi>Jac. B. R. Court in Baxters Caſe.</hi>
+            </p>
+            <p n="4">4 If one be to pay a ſum of money for the Tythe of a piece of ground, and the ground be after turned to houſes and gardens; in this caſe the manner of tithing doth con<g ref="char:EOLhyphen"/>tinue. <hi>Cook</hi> 11. 16.</p>
+            <p n="5">5 If one turn his paſture into a Coniger, and make co<g ref="char:EOLhyphen"/>ney-borrowes in it, the Tythe will not be gone. But I con<g ref="char:EOLhyphen"/>ceive, it doth continue as it did for the manner of Tithing as before, and no new manner of Tithing. See before Tithe of Coneys. <hi>M.</hi> 13. <hi>Car. B. R.</hi>
+            </p>
+            <p n="6">6 If the Vicar keep the Glebe in his own hands, it is ſaid, That ſo long he is to pay no Tythe to the Parſon impropri<g ref="char:EOLhyphen"/>ate. But if he leaſe it to another, then the Leſſee muſt pay tithe to him, and if he ſow the Land, that he muſt pay tithe as other men. <hi>Brownl. Rep.</hi> 69.</p>
+            <p n="7">7 If a Parſon impropriate keep his Glebe in his owne <note place="margin">Suſpenſion.</note> hands, he cannot pay tithe to himſelf. But if he ſell or let it to another, he ſhall pay lithe as other men. And if a Parſon purchaſe Land within his Rectory, no Tythe is to be payed for this whiles it is in his own hands. But if he af<g ref="char:EOLhyphen"/>ter leaſethe Parſonage; his Leſſee ſhall have tythe of this new purchaſed Land. And if he make a Feoffment or Leaſe of the purchaſed Land, his Feoffee or Leſſee muſt pay tithe again. <hi>Cook upon Litt.</hi> 139. 11, 14. <hi>Broo. Diſmes</hi> 17. <hi>Dyer</hi> 43</p>
+            <pb n="29" facs="tcp:115688:18"/>
+            <p>And if one purchaſe a Parſonage and a Manor in the pa<g ref="char:EOLhyphen"/>riſh diſcharged of Tythes, and then leaſe part of the demeſhes of the Manor; it is ſaid the Leſſor ſhall have tythe of this part. <hi>Breo. Diſmes</hi> 17. <hi>Sed quare</hi> of this.</p>
+            <p n="8">8 If Land lye in a Foreſt in any pariſh, and is tythe free, and the Forreſt be diſ<g ref="char:EOLhyphen"/>forreſted, now it ſhall pay Tythe in kind. <hi>Crompt. Jur. 52. Lord Ch. Baron at Sarum Aſſizes.</hi>
+            </p>
+            <p>The alteration of payment (as if in ſtead of the mony to be paid, another ſum, or Tythes in kind have been paid for twenty years paſt) will not deſtroy the Preſcription. <hi>Cook upon Lit.</hi> 14. <hi>Dyer</hi> 7.</p>
+            <p>Lands may be diſcharged from paiment of tythes by a uni<g ref="char:EOLhyphen"/>ty <note place="margin">
+                  <hi>Sect.</hi> 4. By Act of Par<g ref="char:EOLhyphen"/>liament and u<g ref="char:EOLhyphen"/>nity of poſſeſ<g ref="char:EOLhyphen"/>ſion together. Whether gone or not.</note> of poſſeſſion of the Parſonage, and Lands which did pay Tithes, by an Appropriation or otherwiſe, in the hands of Religious and Eccleſiaſtical perſons, (as they were called.) So that now at this day by the Statute of 31. <hi>H.</hi> 8. 13. Such a unity in the ſaid Religious houſes and perſons will be a diſcharge to all Patentees from the payment of Tythes of Lands, that came to the Crown by the ſame Statute. But then this unity in the ſaid Religious perſons muſt have been <hi>Juſta,</hi> obtained by Right; for if either the Parſonage, Vicarage, Tythes or Lands had come or been united to their houſes by diſſeiſins, or other tortious and unlawful Acts, this had not been a good diſcharge within the Statute. 2 It muſt have been <hi>aequalis,</hi> there muſt have been a Fee-ſimple both in the Lands out of which the Tithes were to be paid, and in the Parſonage or Vicarage in them; for if the Abbots, Pryors, or other Religious perſons had held but by Leaſe, that had not been ſuch a unity as the Statute intended: 3 It muſt have been <hi>libera,</hi> free from the payment of any Tythes, for if their Farmers or Tenants, at Wil or years, had paid tythes, that had not been a ſufficient unity to have diſcharged the Land. 4 And laſtly, It muſt have been <hi>perpetua,</hi> time out of mind. And then for the infinite impoſſibility, and impoſſible infiniteneſſe that ſuch Immunities and diſcharges, that ſuch religious perſons and houſes had before time of me<g ref="char:EOLhyphen"/>mory
+<pb n="30" facs="tcp:115688:19"/> could not be knowne; ſuch a unity had been a good diſcharge of the Lands in their own hands. And if the Mo<g ref="char:EOLhyphen"/>naſtery were built in the time of memory, or appropriated within the time of memory, and tythe were paid before this, it will not ſerve turn to diſcharge it. And at this day ſuch an unity is a good diſcharge for the Kings Patentees, with the Statute of 31. <hi>H.</hi> 8. But ſuch Lands as came to theCrowne by the Statute of 27 <hi>H.</hi> 8. of Diſſolution, muſt at this day pay Tythes, although the Lands in the hands of ſuch Religious perſons or houſes were diſcharged from the payment of Tythes; for the priviledges being perſonal pri<g ref="char:EOLhyphen"/>viledges, were extinguiſed by the Statute of Diſſolution, and there are no words in that Statute to ſave them. <hi>Sta.</hi> 31 <hi>H.</hi> 8. 13. 7. <hi>H.</hi> 4. 6. 32. <hi>H.</hi> 8. 7. <hi>Cook</hi> 11. 14. 2. 42. <hi>Dyer</hi> 278 349. 277.</p>
+         </div>
+         <div n="10" type="chapter">
+            <head>CHAP. X.</head>
+            <argument>
+               <p>Of other Profits which the Parſon and Vicar doth claim.</p>
+            </argument>
+            <p>THere are ſome other ſmal profits which Parſons and Vi<g ref="char:EOLhyphen"/>cars claime as belonging to their Parſonages and Vica<g ref="char:EOLhyphen"/>rages beſide Tythe and money in lieu of Tythe, as Mortua<g ref="char:EOLhyphen"/>ries, Oblations, Obventions, &amp;c. And as to Mortuaries <note place="margin">Mortuaries.</note> theſe things are to be knowne. 1 That no Mortuary is to be paid, but where it hath been uſed to be paid. 2. There ſhall be but one Mortuary paid, and no more, 3. No perſon that doth keep houſe muſt pay them. 4 No woman that hath a husband ſhal pay them. 5 No children muſt pay them. 6 Where they are to be paid, they muſt be paid af<g ref="char:EOLhyphen"/>ter this proportion; <hi>viz.</hi> he that dyeth having goods under Ten Marks ſhall pay nothing; for Goods above that va<g ref="char:EOLhyphen"/>lue, and under Thirty pound, but three ſhillings foure pence; for Goods above Thirty pound, and under For<g ref="char:EOLhyphen"/>ty
+<pb n="31" facs="tcp:115688:19"/> pound, ſix ſhillings eight pence; for goods above For<g ref="char:EOLhyphen"/>ty pound, how much ever it bee, but Ten ſhillings. 7 All this account muſt be made only out of the Goods remaining after debts paid. 8. The Parſon of the place where the party dwells, no of the place where he dyeth, muſt have it. <hi>Stat.</hi> 21. <hi>Hen.</hi> 8. 6. 26. <hi>Hen.</hi> 8. 15.</p>
+            <p>There is no more to be ſaid for Obventions, Obla<g ref="char:EOLhyphen"/>tions, <note place="margin">Oblations, Obventions, and Ofterings</note> and Offerings, which ſeem to be all one, but that they by the Law now in force are to bee paid as formerly they have been: <hi>Stat.</hi> 32. <hi>H.</hi> 8. 7. 27 <hi>H.</hi> 8, 20. 2 &amp; 3 <hi>Ed.</hi> 6. 13. <hi>Cook</hi> 11. 16.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
